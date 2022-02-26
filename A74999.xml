@@ -1,0 +1,396 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Abridgment of the late reverend assemblies Shorter Catechism, fitted for the use of the weakest capacities and memories</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74999</idno>
+            <idno type="STC">Wing A107A</idno>
+            <idno type="STC">ESTC R204009</idno>
+            <idno type="EEBO-CITATION">36281957</idno>
+            <idno type="OCLC">ocm 36281957</idno>
+            <idno type="VID">150006</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74999)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150006)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2223:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Abridgment of the late reverend assemblies Shorter Catechism, fitted for the use of the weakest capacities and memories</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1662?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: tightly bound, with loss of print.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms, English --  17th century.</term>
+               <term>Theology, Doctrinal --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:150006:1"/>
+            <pb n="1" facs="tcp:150006:1"/>
+            <head>AN ABRIDGMENT Of the late <hi>Reverend Aſſemblies</hi> SHORTER CHATECHISM. Fitted for the uſe of the <hi>weakeſt</hi> Capacities and <hi>Memories.</hi>
+            </head>
+            <p>Queſtion I.</p>
+            <p>
+               <hi>WHat is God?</hi>
+            </p>
+            <p>Anſw. <hi>God the</hi> (a) <hi>Father, Son, and Holy Ghoſt</hi> is a <hi>(b)</hi> Spirit, <hi>(c)</hi> Almighty, of perfect <hi>(d)</hi> goodneſs, holineſs, <hi>(e)</hi> mercy, and <hi>(f)</hi> juſtice a <hi>Mat.</hi> 28.19. Go ye therefore and teach all Nations baptizing them in the name <hi>of the Fa<g ref="char:EOLhyphen"/>ther, and of the Son, and of the Holy Ghoſt</hi>
+            </p>
+            <p>1 <hi>John</hi> 5.7. For there are <hi>three</hi> that bear re<g ref="char:EOLhyphen"/>cord in heaven, <hi>the Father, the Word, and the Ho<g ref="char:EOLhyphen"/>ly Ghoſt;</hi> and theſe <hi>three</hi> are <hi>one.</hi>
+            </p>
+            <p>
+               <pb n="2" facs="tcp:150006:2"/>b <hi>Joh.</hi> 4.24. <hi>God is a Spirit,</hi> and they that wor<g ref="char:EOLhyphen"/>ſhip him muſt worſhip him in ſpirit and truth.</p>
+            <p>c <hi>Rev.</hi> 4.8. And the four beaſts reſt not day and night, ſaying, <hi>Holy, holy, holy, Lord God Almighty.</hi>
+            </p>
+            <p>d <hi>Mat.</hi> 19.17. Jeſus ſaid, <hi>There is none good but One, that is God.</hi>
+            </p>
+            <p>e <hi>Exod.</hi> 34.6. The Lord proclaimed, The Lord, <hi>the Lord God, merciful, and gracious,</hi> long ſuffering, <hi>Ver.</hi> 7. Keeping <hi>mercy</hi> for thou<g ref="char:EOLhyphen"/>ſands; <hi>forgiving</hi> iniquity, tranſgreſſion, and ſin.</p>
+            <p>f <hi>Exod.</hi> 34.7. The Lord, that <hi>will by no means clear the guilty, viſiting the iniquity</hi> of the fathers upon the Children.</p>
+            <p>Q. 2. <hi>In what eſtate did God create or make man?</hi>
+            </p>
+            <p>Anſ. <hi>God created man after</hi> his own <hi>(g)</hi> Image, in <hi>(h)</hi> knowledge, <hi>(i)</hi> righteouſneſs and holineſs, entering into a <hi>(k)</hi> Covenant of life with him, upon condition of perfect obedience.</p>
+            <p>g <hi>Gen.</hi> 1.27. So God created man <hi>in his own Image,</hi> in the <hi>Image of God</hi> created he <hi>him,</hi> Male and Female created he them.</p>
+            <p>h <hi>Col.</hi> 3.10. And have put on the new man, which is renewed in <hi>knowledge,</hi> after the <hi>image of him</hi> that created him.</p>
+            <p>i <hi>Epheſ.</hi> 4.24. And that ye put on the <hi>new man,</hi> which <hi>after God</hi> is created in <hi>righteouſneſs and true holineſs.</hi>
+            </p>
+            <p>
+               <hi>k Gen.</hi> 2.16, 17. The Lord God <hi>commanded</hi> the man, ſaying, of <hi>every tree</hi> of the Garden thou
+<pb n="3" facs="tcp:150006:2"/>mayſt <hi>freely eat, Ver.</hi> 17. But of the <hi>tree of know<g ref="char:EOLhyphen"/>ledge of good and evil,</hi> thou ſhalt <hi>not</hi> eat <hi>of it,</hi> for in the day that thou <hi>eateſt thereof, thou ſhalt ſurely die.</hi>
+            </p>
+            <p>
+               <hi>Gal.</hi> 3.12. The <hi>Law</hi> is not of faith, but <hi>the Man that doth them ſhall live in them.</hi>
+            </p>
+            <p>Queſt. 3. <hi>Did Man continue in that eſtate wherein he was created?</hi>
+            </p>
+            <p>Anſw. <hi>Man fell</hi> (l) <hi>from that eſtate by ſin,</hi> and ſo brought himſelf, and all mankind under the <hi>(m)</hi> wrath, and <hi>(n)</hi> curſe of God.</p>
+            <p>l <hi>Gen.</hi> 3.6. When the <hi>Woman</hi> ſaw, that the <hi>tree</hi> was good for food, <hi>ſhe</hi> took of <hi>the fruit thereof,</hi> and did <hi>eat;</hi> and gave alſo unto her <hi>husband</hi> with her, and <hi>he did eat.</hi>
+            </p>
+            <p>m <hi>Epheſ.</hi> 2.3. Among whom alſo <hi>we all</hi> had our converſation in time paſt, in the luſts of our fleſh, and <hi>were by nature the children of wrath, even as others.</hi>
+            </p>
+            <p>n <hi>Gal.</hi> 3.10. <hi>As many</hi> as are of the <hi>works</hi> of the Law are <hi>under the curſe:</hi> For it is written, <hi>Curſed</hi> is every one that <hi>continueth not in all things</hi> which are written in the Book of the <hi>Law</hi> to <hi>do</hi> them</p>
+            <p>Queſt. 4. <hi>What is ſin?</hi>
+            </p>
+            <p>Anſw. <hi>Sin is</hi> the <hi>(o)</hi> tranſgreſſion of the Law of God.</p>
+            <p>o 1 <hi>John</hi> 3.4. Whoſoever <hi>committeth ſin, tranſ<g ref="char:EOLhyphen"/>greſſeth</hi> alſo the <hi>Law:</hi> for <hi>ſin is the tranſgreſſion of the Law.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:150006:3"/>Queſt. 5. <hi>By what means may man eſcape the wrath and curſe of God?</hi>
+            </p>
+            <p>Anſw. <hi>Man may eſcape the wrath and curſe of God by (p Jeſus Chriſt,</hi> the only <hi>(q)</hi> begotten Son of God, who became <hi>(r)</hi> man, being <hi>(ſ)</hi> conceived by the Holy Ghoſt, and born of the <hi>(t)</hi> Virgin <hi>Mary.</hi>
+            </p>
+            <p>(p) <hi>Acts</hi> 4.12. <hi>Neither</hi> is there <hi>ſalvation in any other,</hi> for there is <hi>none other name</hi> under Heaven given among men, <hi>whereby we muſt be ſaved.</hi>
+            </p>
+            <p>q <hi>John</hi> 3.16. God gave <hi>his only begotten Son,</hi> that whoſoever believeth on him ſhould not periſh, but have everlaſting life.</p>
+            <p>
+               <hi>John</hi> 1.14. <hi>The word was made fleſh,</hi> and dwelt among us, and we beheld his glory, the glory of the only begotten of the Father.</p>
+            <p>ſ <hi>Luke</hi> 1.35. The Angel ſaid unto her, <hi>The Holy Ghoſt ſhall come upon thee,</hi> and <hi>the power of the higheſt ſhall over-ſhaddow thee;</hi> therefore alſo that holy thing, which ſhall be <hi>born</hi> of thee, ſhall be called the <hi>Son of God.</hi>
+            </p>
+            <p>
+               <hi>t Mat.</hi> 1.25. Joſeph <hi>knew her not, till ſhe had brought forth her firſt-born Son,</hi> and he called his name <hi>Jeſus.</hi>
+            </p>
+            <p>Queſt. <hi>What hath Jeſus Chriſt done for man?</hi>
+            </p>
+            <p>Anſw. <hi>Jeſus Chriſt</hi> underwent the <hi>(u)</hi> wrath &amp; <hi>(w)</hi> curſe of God for man, being <hi>(x)</hi> crucified, <hi>(y)</hi> dead and <hi>(y)</hi> buried, He <hi>(y)</hi> aroſe again, <hi>(z)</hi> aſcended into Heaven, and ſitteth at the
+<pb n="5" facs="tcp:150006:3"/>
+               <hi>(z)</hi> right hand of God the Father.</p>
+            <p>u <hi>Iſa.</hi> 53.5. He was wounded for our tranſ<g ref="char:EOLhyphen"/>greſſions, He was <hi>bruiſed</hi> for <hi>our</hi> iniquities; the <hi>chaſtiſement</hi> of <hi>our</hi> peace was upon <hi>him,</hi> and with his ſtripes we are healed.</p>
+            <p>w <hi>Gal.</hi> 3.13. <hi>Chriſt</hi> hath <hi>redeemed</hi> us from the <hi>curſe</hi> of the Law, being made a <hi>curſe</hi> for us; for it is written, <hi>curſed</hi> is every one that hangeth on a Tree.</p>
+            <p>x <hi>Mat.</hi> 27.35. And <hi>they crucified him,</hi> and parted his Garments, caſting lots.</p>
+            <p>y 1 <hi>Cor.</hi> 15.3, 4. Chriſt <hi>dyed</hi> for our ſins according to the Scriptures, <hi>v.</hi> 4. And <hi>was buri<g ref="char:EOLhyphen"/>ed,</hi> and <hi>roſe again the third day,</hi> according to the Scriptures.</p>
+            <p>z <hi>Mark</hi> 16.19. So then, after the <hi>Lord</hi> had ſpoken unto them, <hi>he</hi> was <hi>received up into Hea<g ref="char:EOLhyphen"/>ven; and ſate on the right hand of God.</hi>
+            </p>
+            <p>Queſt. 7. <hi>How came we to be partakers of what Jeſus Chriſt hath done for man?</hi>
+            </p>
+            <p>Anſw. <hi>We come to be partakers of what Jeſus Chriſt hath done for man</hi> by the <hi>(a)</hi> Holy Ghoſt.</p>
+            <p>a <hi>Tit.</hi> 3.5, 6. According to his mercy he <hi>ſaved</hi> us by the waſhing of Regeneration &amp; <hi>renewing of the Holy Ghoſt,</hi> v. 6. <hi>Which he ſhed on us abun<g ref="char:EOLhyphen"/>dantly;</hi> through Jeſus Chriſt our Saviour.</p>
+            <p>Queſt. 8. <hi>After what manner doth the Holy Ghoſt make us partakers of what Chriſt hath done?</hi>
+            </p>
+            <p>Anſw. <hi>The Holy Ghoſt makes us partakers of
+<pb n="6" facs="tcp:150006:4"/>what Chriſt hath done,</hi> by working in us <hi>(b)</hi> faith in Chriſt, and <hi>(c)</hi> repentance unto life.</p>
+            <p>b 1 <hi>Cor.</hi> 12.3. <hi>No</hi> man can <hi>ſay, that Jeſus is the Lord but by the Holy Ghoſt.</hi>
+            </p>
+            <p>c <hi>Rom.</hi> 8.13. If ye <hi>by the ſpirit do mortifie the deeds of the body,</hi> ye ſhall live.</p>
+            <p>Queſt. 9. <hi>What is faith in Chriſt?</hi>
+            </p>
+            <p>Anſw. <hi>Faith in Chriſt,</hi> is a firm <hi>(d)</hi> believing that Chriſt is the only Lord and Saviour, and an hearty <hi>(e)</hi> acceptance of him accordingly.</p>
+            <p>d <hi>Rom.</hi> 10.9. If thou ſhalt confeſs with thy mouth the Lord Jeſus, and <hi>ſhalt believe in thine heart</hi> that God hath raiſed <hi>him</hi> from the dead, thou <hi>ſhalt be ſaved.</hi>
+            </p>
+            <p>c <hi>John</hi> 1.12. As many as <hi>received</hi> him, to them gave he power to become the Sons of God, <hi>even to them that believe in his name.</hi>
+            </p>
+            <p>Queſt. 10. <hi>What is Repentance unto life?</hi>
+            </p>
+            <p>Anſw. <hi>Repentance unto life is</hi> an hearty <hi>(f)</hi> ſorrow for, and turning <hi>(g)</hi> from all ſins un<g ref="char:EOLhyphen"/>to God, with a full purpoſe of, and <hi>(h)</hi> endea<g ref="char:EOLhyphen"/>vour after new obedience.</p>
+            <p>f <hi>Joel.</hi> 2.12. Therefore alſo now ſaith the Lord, <hi>Turn</hi> ye even to <hi>me</hi> with <hi>all</hi> your <hi>heart,</hi> &amp; with <hi>faſting,</hi> and with <hi>weeping,</hi> &amp; with <hi>mourning.</hi>
+            </p>
+            <p>g <hi>Iſa.</hi> 1.16, 17. Waſh ye, <hi>make you clean, put</hi> away the <hi>evil</hi> of your doings before mine eyes, <hi>ceaſe to do evil,</hi> v. 17. <hi>Learn to do well,</hi> ſeek <hi>judge<g ref="char:EOLhyphen"/>ment, relieve</hi> the oppreſſed, <hi>judge</hi> the Fatherleſs, <hi>plead</hi> for the widdow.</p>
+            <p>
+               <pb n="7" facs="tcp:150006:4"/>Queſt. 11. <hi>What is the rule of obedience?</hi>
+            </p>
+            <p>Anſw. <hi>The Rule of obedience is</hi> the <hi>(h)</hi> Mora<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Law contained in the Ten Commandments.</p>
+            <p>h <hi>Deut.</hi> 10.4, 13. He wrote on the <hi>Table</hi> according to the <hi>firſt</hi> writing, <hi>the ten comman<g ref="char:EOLhyphen"/>dements,</hi> which the <hi>Lord ſpake</hi> unto you in th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Mount out of the midſt of the fire, in the day o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>aſſembly,</hi> &amp; the Lord gave them unto me.— Ver. 13. <hi>To keepe the Commandments of the Lord</hi> and his ſtatutes, which I <hi>Command</hi> thee this day for thy good.</p>
+            <p>Queſt. 12. <hi>Rehearſe the ten commandments?</hi>
+            </p>
+            <p>Anſw. <hi>God ſpeak all theſe words,</hi> ſaying, <hi>I am the Lord thy God,</hi> &amp;c. <hi>Exod.</hi> 20.1, to 18.</p>
+            <p>Queſt. 13. <hi>What is the ſum of the ten com<g ref="char:EOLhyphen"/>mandments?</hi>
+            </p>
+            <p>Anſw. <hi>The ſum of the Ten Commandments, is,</hi> to love the Lord our God, with all our heart, with all our ſoul, with all our ſtrength, and with all our mind, and our neighbours as our ſelves, <hi>Luke</hi> 10.27. <hi>Mark</hi> 12.30, 31.</p>
+            <p>Queſt. 14. <hi>How doth the Holy Ghoſt work in us Faith in Chriſt, and repentance unto life?</hi>
+            </p>
+            <p>Anſw. <hi>The Holy Ghoſt doth work in us Faith in Chriſt, and repentance unto life</hi> ordinarily, by the <hi>(i)</hi> preaching &amp; hearing <hi>(k)</hi> of the word of God.</p>
+            <p>
+               <hi>Pſal.</hi> 19.7. The <hi>Law</hi> of the Lord is perfect, <hi>converting</hi> the ſoul; the <hi>Teſtimony</hi> of the Lord is ſure, making wiſe the ſimple.</p>
+            <p>
+               <pb n="8" facs="tcp:150006:5"/>k <hi>Rom.</hi> 10.17. <hi>Faith</hi> cometh by <hi>hearing,</hi> and <hi>hearing</hi> by the Word of God.</p>
+            <p>Queſt. 15. <hi>How are Faith and Repentance ſtrengthened?</hi>
+            </p>
+            <p>Anſw. <hi>Faith and Repentance are ſtrengthened</hi> by the <hi>(l)</hi> ſame Word of God, by the <hi>(m)</hi> Sa<g ref="char:EOLhyphen"/>craments, and <hi>(n)</hi> by Prayer.</p>
+            <p>I <hi>Acts</hi> 20.23. I commend you to God and <hi>the word of his Grace,</hi> which is <hi>able to build you up,</hi> and to give you an <hi>inheritance</hi> among them which are <hi>ſanctified.</hi>
+            </p>
+            <p>m <hi>Rom.</hi> 6.4. We are <hi>buried</hi> with him by <hi>Bap<g ref="char:EOLhyphen"/>tiſme</hi> into <hi>death,</hi> that like as <hi>Chriſt</hi> was <hi>raiſed</hi> from the dead by the Glory of the Father, even ſo we alſo ſhould <hi>walk in newneſs of life.</hi>
+            </p>
+            <p>1 <hi>Cor.</hi> 11.24. When he had given thanks, he <hi>brake it,</hi> and ſaid, <hi>Take, eat, this is my body which is broken for you,</hi> this do in <hi>remembrance of me.</hi>
+            </p>
+            <p>n <hi>Luke</hi> 11.13. If <hi>ye</hi> being <hi>evil</hi> know how to <hi>give good gifts</hi> unto your <hi>children, how much more</hi> ſhall your heavenly Father <hi>give the holy ſpirit</hi> to them that ask him?</p>
+            <p>Queſt. 16. <hi>What is the word of God?</hi>
+            </p>
+            <p>Anſw. <hi>The word of God</hi> is the <hi>(o)</hi> Scriptures of <hi>(p)</hi> the Old, and New Teſtament.</p>
+            <p>o 2 <hi>Tim</hi> 3.16. <hi>All Scripture is given by in<g ref="char:EOLhyphen"/>ſpiration of God,</hi> and is profitable, <hi>&amp;c.</hi>
+            </p>
+            <p>p <hi>Epheſ.</hi> 2 20. And are <hi>built</hi> upon the <hi>foun<g ref="char:EOLhyphen"/>dation of the Apoſtles and Prophets,</hi> Jeſus Chriſt
+<pb n="9" facs="tcp:150006:5"/>himſelf being the chief Corner-ſtone.</p>
+            <p>Queſt. 17. <hi>What is a Sacrament?</hi>
+            </p>
+            <p>Anſw. <hi>A Sacrament</hi> is an <hi>(q)</hi> outward ſign and ſeal of the New Covenant.</p>
+            <p>q <hi>Rom.</hi> 4.11. He received the <hi>ſign of Cir<g ref="char:EOLhyphen"/>cumciſion, a ſeal of the Righteouſneſs of faith,</hi> which he had yet being uncircumciſed.</p>
+            <p>Queſt. 18. <hi>What is the new Covenant?</hi>
+            </p>
+            <p>Anſw. <hi>The new Covenant is</hi> that wherein God freely offereth unto ſinners <hi>(r)</hi> life, and <hi>(ſ)</hi> ſal<g ref="char:EOLhyphen"/>vation by Chriſt, requiring of them <hi>(t)</hi> faith in him that they may be ſaved.</p>
+            <p>r 1 <hi>John</hi> 5.11. This is the <hi>record</hi> that <hi>God hath given to us eternal life,</hi> and <hi>this life is in his Son.</hi>
+            </p>
+            <p>ſ <hi>Acts</hi> 3.25, 26. Yea are the Children <hi>of the Promiſe</hi> and of the <hi>Covenant</hi> which God made with our Fathers, ſaying unto <hi>Abraham,</hi> and <hi>in thy ſeed ſhall all the Kindreds of the Earth be bleſ<g ref="char:EOLhyphen"/>ſed,</hi> v. 26. Unto you firſt God having raiſed up his Son <hi>Jeſus,</hi> ſent him to <hi>bleſs you,</hi> in turning away every one of you from his <hi>iniquities.</hi>
+            </p>
+            <p>
+               <hi>Rom.</hi> 11.26, 27. And ſo <hi>all Iſrael ſhall be ſa<g ref="char:EOLhyphen"/>ved</hi> as it is written, There ſhall come out of <hi>Si<g ref="char:EOLhyphen"/>on the deliverer,</hi> and ſhall <hi>turn away ungodlineſs from Jacob</hi> ver. 27. — For this is <hi>my Covenant</hi> unto them, when I ſhall <hi>take away their ſins.</hi>
+            </p>
+            <p>1 <hi>John</hi> 3.16. God ſo loved the World, that he gave his only begotten Son, that <hi>whoſoever be<g ref="char:EOLhyphen"/>lieveth on him,</hi> ſhould not periſh, but <hi>have ever<g ref="char:EOLhyphen"/>laſting life.</hi>
+            </p>
+            <p>
+               <pb n="10" facs="tcp:150006:6"/>Queſt. 19. <hi>Which are the Sacraments, that ſignifie and ſeal the new Covenant?</hi>
+            </p>
+            <p>Anſw. <hi>The Sacraments, that ſignifie and ſeal the New Covenant, are (u)</hi> Baptiſme, and the <hi>(w)</hi> Lords Supper.</p>
+            <p>u <hi>Mat.</hi> 28.19. Go ye therefore, and teach all Nations, <hi>baptizing them in the name of the Father, and of the Son, and of the Holy Ghoſt.</hi>
+            </p>
+            <p>w <hi>Mat.</hi> 26.26, 27, 28. And as they were eating, <hi>Jeſus took bread, and bleſſed it, and brake it, and gave it to the Diſciples, and ſaid, Take, eat, this is my body,</hi> ver. 27. <hi>And he took the Cup, and gave thanks, and gave it them, ſaying, drink ye all of it,</hi> ver. 28. <hi>For this is my bloud of the New Teſta<g ref="char:EOLhyphen"/>ment, which is ſhed for many, for the remiſſion of ſins.</hi>
+            </p>
+            <p>Queſt. 20. <hi>What is Baptiſme?</hi>
+            </p>
+            <p>Anſw. <hi>Baptiſme</hi> is the <hi>(x)</hi> waſhing with water in the name of the Father, and of the ſon, and of the Holy Ghoſt.</p>
+            <p>x <hi>Mat.</hi> 28.19. See before <hi>Queſt.</hi> 19. <hi>u.</hi>
+            </p>
+            <p>Queſt. 21. <hi>What doth baptiſme ſignifie and ſeal unto us?</hi>
+            </p>
+            <p>Anſw. <hi>Baptiſme doth ſignifie and ſeal unto us</hi> the <hi>(y)</hi> waſhing away of our ſins by the <hi>(z)</hi> blood of Chriſt.</p>
+            <p>y <hi>Acts</hi> 22.16. Ariſe and <hi>be baptized, and waſh away thy ſins,</hi> calling on the name of the <hi>Lord.</hi>
+            </p>
+            <p>z <hi>Rev.</hi> 1.5. Unto him that loved us, and <hi>waſh<g ref="char:EOLhyphen"/>ed us from our ſins in his own blood.</hi>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:150006:6"/>Queſt. 22. <hi>To whom is Baptiſme to be admini<g ref="char:EOLhyphen"/>ſtred?</hi>
+            </p>
+            <p>Anſw. <hi>Baptiſme is to be adminiſtred</hi> (only) to <hi>(a)</hi> believers and their <hi>(b)</hi> ſeed.</p>
+            <p>
+               <hi>a Acts</hi> 8.37, 38. <hi>Philip</hi> ſaid, if thou <hi>believeſt with all thy heart, thou mayeſt:</hi> And he anſwered and ſaid, I <hi>believe that Jeſus Chriſt is the Son of God,</hi> v. 38. <hi>And he baptiſed him.</hi>
+            </p>
+            <p>b <hi>Acts</hi> 2.39. The <hi>Promiſe</hi> is unto you, and <hi>to your Children,</hi> and to all that are afar off, even as many as the Lord our God ſhall call.</p>
+            <p>1 <hi>Cor.</hi> 7.14. The unbelieving husband is <hi>ſanctified by his wife,</hi> and the unbelieving wife is <hi>ſanctified by the husband;</hi> elſe were your <hi>chil<g ref="char:EOLhyphen"/>dren</hi> unclean, <hi>but now they are holy.</hi>
+            </p>
+            <p>Queſt. 23. <hi>What is the Lord's Supper?</hi>
+            </p>
+            <p>Anſw. <hi>The Lord's Supper</hi> is the <hi>(c)</hi> giving and receiving of Bread &amp; Wine according to Chriſt's appointment, in Remembrance of his death.</p>
+            <p>c 1 <hi>Cor.</hi> 11.23, 24, 25. I have <hi>received</hi> of the <hi>Lord,</hi> that which alſo <hi>I delivered</hi> unto you, that the <hi>Lord Jeſus the ſame night in which be was betrayed took Bread,</hi> v. 24. <hi>And when he had given thanks, he brake it, and ſaid, Take, eat, this is my body which is broken for you, this do in re<g ref="char:EOLhyphen"/>membrance of me,</hi> v. 25. <hi>After the ſame manner alſo be took the Cup, when he had ſupped, ſaying, this Cup is the New Teſtament in my blood; this do ye, as oft as ye drink it, in remembrance of me.</hi>
+               <pb n="12" facs="tcp:150006:7"/>Queſt. 24. <hi>What doth the Lords Supper ſignifie and ſeal unto us?</hi>
+            </p>
+            <p>An. <hi>The Lords Supper ſignifieth and ſealeth</hi> unto the worthy receivers the <hi>(d)</hi> feeding &amp; nouriſh<g ref="char:EOLhyphen"/>ing their ſouls, by the body &amp; blood of Chriſt.</p>
+            <p>d <hi>Mat.</hi> 26.26. See before <hi>Queſt.</hi> 19. <hi>w.</hi>
+            </p>
+            <p>Queſt. 25. <hi>Who are the worthy Receivers of the Lords Supper?</hi>
+            </p>
+            <p>Anſw. <hi>They are worthy Receivers of the Lords Supper,</hi> that examine themſelves of their <hi>(e)</hi> Knowledge, <hi>(f)</hi> Faith, <hi>(g)</hi> Repentance, <hi>(h)</hi> Love, and <hi>(i)</hi> new Obedience.</p>
+            <p>e 1 <hi>Cor.</hi> 11.28, 29. Let a man <hi>examine him<g ref="char:EOLhyphen"/>ſelf,</hi> and <hi>ſo</hi> let him eat of that Bread, and drink of that Cup, <hi>v.</hi> 29. For he that eateth and drink<g ref="char:EOLhyphen"/>eth <hi>unworthily,</hi> eateth and drinketh <hi>damnation</hi> to himſelf, <hi>not diſcerning the Lords Body.</hi>
+            </p>
+            <p>f 2 <hi>Cor.</hi> 13.5. <hi>Examine your ſelves whether ye be in the Faith, prove your own ſelves. Know ye not</hi> your ſelves, how that <hi>Jeſus Chriſt is in you,</hi> except ye be Reprobates?</p>
+            <p>g 1 <hi>Cor.</hi> 11.31. If we would <hi>judge our ſelves</hi> we ſhould not be judged.</p>
+            <p>h <hi>Cor.</hi> 10.16, 17. The <hi>Cup</hi> of bleſſing, which we bleſs, is it not the <hi>Communion</hi> of the <hi>bloud</hi> of Chriſt? The <hi>Bread</hi> which we brake, is it not the <hi>Communion</hi> of the <hi>bodie</hi> of Chrſt? <hi>v.</hi> 27. For <hi>we</hi> being many are <hi>one bread and one body,</hi> for we are <hi>all partakers</hi> of that <hi>one bread.</hi>
+            </p>
+            <p>
+               <pb n="13" facs="tcp:150006:7"/>i <hi>Lam.</hi> 3.40. Let us <hi>ſearch</hi> and <hi>try</hi> our wayes, and <hi>turn again unto the Lord.</hi>
+            </p>
+            <p>Queſt. 26. <hi>What if perſons neglect ſelf-exami<g ref="char:EOLhyphen"/>nation, before they receive the Lords Supper?</hi>
+            </p>
+            <p>Anſw. <hi>Thoſe that neglect ſelf-examination, before they receive the Lords Supper,</hi> are in danger to <hi>(k)</hi> eat and drink judgment to themſelves, being <hi>(l)</hi> guilty of the body and bloud of our Lord.</p>
+            <p>k 1 <hi>Cor.</hi> 11.29. See before <hi>Queſt.</hi> 25. <hi>e.</hi>
+            </p>
+            <p>l 1 <hi>Cor.</hi> 11.27. <hi>Whoſoever</hi> ſhall <hi>eat this</hi> bread, and <hi>drink this</hi> Cup of the Lord <hi>unworthily,</hi> ſhall be <hi>guilty of the body and bloud of the Lord.</hi>
+            </p>
+            <p>Queſt. 27. <hi>What is Prayer?</hi>
+            </p>
+            <p>Anſw. <hi>Prayer is</hi> the offering up of our <hi>(m)</hi> de<g ref="char:EOLhyphen"/>ſires to God, in the <hi>(n)</hi> name of Chriſt, with <hi>(o)</hi> confeſſion of our ſins and <hi>(p)</hi> thankſgiving.</p>
+            <p>m <hi>Phil.</hi> 4.6. Be careful for nothing, but in eve<g ref="char:EOLhyphen"/>ry thing <hi>by prayer,</hi> and <hi>ſupplication,</hi> with <hi>thanks<g ref="char:EOLhyphen"/>giving,</hi> let <hi>your requeſts be made known unto God.</hi>
+            </p>
+            <p>n <hi>John</hi> 16.23. Verily, verily, I ſay unto you, <hi>whatſoever ye ſhall ask the Father in my name,</hi> he will give it you.</p>
+            <p>o <hi>Dan.</hi> 9.4. <hi>I Prayed</hi> unto the Lord my God, and <hi>made my confeſſion,</hi> and ſaid, O Lord, <hi>&amp;c.</hi>
+            </p>
+            <p>p <hi>Phil</hi> 4.6. See before, <hi>Queſt.</hi> 27. <hi>m.</hi>
+            </p>
+            <p>Queſt. 28. <hi>What Rule hath God given for our direction in Prayer?</hi>
+            </p>
+            <p>
+               <hi>An.</hi> The whole <hi>(q)</hi> word of God, is of uſe to di<g ref="char:EOLhyphen"/>rect us in prayer, but <hi>eſpecially</hi> the Lords Prayer.</p>
+            <p>
+               <pb n="14" facs="tcp:150006:8"/>q 1 <hi>John</hi> 5.14. This is the confidence that we have in him, that if <hi>we ask any thing accord<g ref="char:EOLhyphen"/>ing to his will,</hi> he heareth us.</p>
+            <p>Queſt. 29. <hi>Rehearſe the Lord's Prayer?</hi>
+            </p>
+            <p>Anſw. <hi>Our Father, which art in Heaven, hallow<g ref="char:EOLhyphen"/>ed be thy name. Thy Kingdome come. Thy will be done on Earth, as it is in Heaven. Give us this day our daily bread. And forgive us our treſpaſſes, as we forgive them that treſpaſs againſt us. And lead us not into temptation, but deliver us from evil. For thine is the Kingdome, the power and the Glory, for ever, and ever, Amen. Mat.</hi> 6.9, 10, &amp;c. <hi>Luke</hi> 11.1, 3, 4.</p>
+            <p>Queſt. 30. <hi>What benefits have we in Chriſt upon uor Faith and Repentance in this life?</hi>
+            </p>
+            <p>Anſw. <hi>We have in Chriſt upon our Faith and Repentance in this life (r)</hi> pardon of ſin, <hi>(ſ)</hi> power to become the Sons of God, and a <hi>(t)</hi> renew<g ref="char:EOLhyphen"/>ing of the Image of God in us.</p>
+            <p>r <hi>Ro.</hi> 8.30. Whom he did predeſtinate, them he alſo call'd; &amp; <hi>whom he called, them he alſo juſtified.</hi>
+            </p>
+            <p>ſ <hi>John</hi> 1.12. As many as <hi>received</hi> him, <hi>to them gave he power to beeome the Sons of God,</hi> even to them that <hi>believe</hi> on his name.</p>
+            <p>t <hi>Col.</hi> 3.9, 10. <hi>Ye have put off the Old man with his deeds.</hi> ver. 10. <hi>And have put on the new man, which is renewed in Knowledge after the image of him that created him.</hi>
+            </p>
+            <p>Queſt. 31. <hi>What benefits have we in Chriſt at death?</hi>
+            </p>
+            <p>
+               <pb n="15" facs="tcp:150006:8"/>Anſw. <hi>At death,</hi> our <hi>(u)</hi> ſouls ſhall imme<g ref="char:EOLhyphen"/>diately paſs into glory.</p>
+            <p>u <hi>Luke</hi> 23.43. <hi>Jeſus</hi> ſaid unto him, <hi>verily I</hi> ſay unto thee, <hi>to day thou ſhalt be with me in Baradiſe.</hi>
+            </p>
+            <p>Queſt. 32. <hi>What benefits have we in Chriſt at the Reſurrection?</hi>
+            </p>
+            <p>Anſw. <hi>At the Reſurrection,</hi> our (w) bodies al<g ref="char:EOLhyphen"/>ſo being raiſed up in glory, we ſhall be <hi>(x)</hi> ac<g ref="char:EOLhyphen"/>quitted by Chriſt in judgement, and made perfectly <hi>(y)</hi> bleſſed in the full enjoyment of God <hi>(z)</hi> for ever.</p>
+            <p>w 1 <hi>Cor.</hi> 15.43. It is ſown in <hi>Diſhonour,</hi> it is <hi>raiſed in glory.</hi> It is ſown in <hi>weakneſs,</hi> it is <hi>rai<g ref="char:EOLhyphen"/>ſed in power.</hi>
+            </p>
+            <p>x <hi>Mat.</hi> 25.33, 34. And he ſhall <hi>ſet the ſheep on his right hand,</hi> but <hi>the goats on the left,</hi> v. 3, 4. <hi>Then</hi> ſhall the King ſay <hi>to them on his right hand, Come ye bleſſed of my Father, inherit the Kingdome pre<g ref="char:EOLhyphen"/>pared for you,</hi> from the foundation of the world.</p>
+            <p>y 1 <hi>John</hi> 3.2. Now are we the Sons of God, and it doth not yet appear, <hi>what we ſhall be:</hi> but we know, that <hi>when he ſhall appear, we ſhall be like him,</hi> for <hi>we ſhall ſee him as he is.</hi>
+            </p>
+            <p>z 1 <hi>Theſ.</hi> 4.17. <hi>Then we</hi> which are alive and remain, ſhall be caught up together with them in the clouds to meet the Lord in the air, and ſo ſhall <hi>we be ever with the Lord.</hi>
+            </p>
+            <p>Queſt. 33. <hi>What ſhall become of thoſe that never repent and believe?</hi>
+            </p>
+            <p>
+               <pb n="16" facs="tcp:150006:9" rendition="simple:additions"/>Anſw. <hi>Thoſe that never repent and believe</hi> beſides the <hi>(a)</hi> wrath and <hi>(b)</hi> curſe of God upo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them in this life, ſhall <hi>(c)</hi> die in their ſins, and be <hi>(d)</hi> puniſhed with everlaſting torments i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Hell Fire.</p>
+            <p>a <hi>John</hi> 3.36. He that <hi>believeth</hi> not the Son, ſhall <hi>not ſee life,</hi> but the <hi>wrath of God abideth on him<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p>b <hi>Gal.</hi> 3.10. See before <hi>Queſt.</hi> 3. <hi>n.</hi>
+            </p>
+            <p>c <hi>John</hi> 8.24. I ſaid therefore unto you, that <hi>ye ſhall die in your ſins;</hi> for if <hi>ye believe not tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I am he, ye ſhall die in your ſins.</hi>
+            </p>
+            <p>d 2 <hi>Theſ.</hi> 1.8.9. <hi>In flaming Fire, taking vengeance on them that know not God, and that o<g ref="char:EOLhyphen"/>bey not the Goſpel of the Lord Jeſus Chriſt,</hi> v. 9. <hi>Who ſhall be puniſht with everlaſting deſtruction from the preſence of the Lord, and from the glory of his power.</hi>
+            </p>
+            <p>
+               <hi>Luke</hi> 13.3. <hi>Except ye repent, ye ſhall all like<g ref="char:EOLhyphen"/>wiſe periſh.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
